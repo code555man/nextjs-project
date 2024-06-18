@@ -1,0 +1,13 @@
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+.container div{
+  width: 300px;
+  height: 300px;
+  margin: 30px 15px;
+  padding: 30px;
+  background-color: #afaeae;
+}
